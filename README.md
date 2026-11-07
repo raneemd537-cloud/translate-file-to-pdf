@@ -90,7 +90,9 @@ translate-file-to-pdf/
 
 ## Testing
 
-A testing guide will be provided in `docs/TESTING.md`.
+A testing guide is available in `docs/TESTING.md`.
+
+It describes practical test cases for different document types, translation quality, Arabic formatting, and PDF output.
 
 It will describe practical test cases for different document types, translation quality, Arabic formatting, and PDF output.
 
